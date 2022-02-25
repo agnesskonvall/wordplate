@@ -1,0 +1,10 @@
+{
+  "resources/scripts/index.js": {
+    "file": "index.c3c1021b.js",
+    "src": "resources/scripts/index.js",
+    "isEntry": true,
+    "css": [
+      "index.925239bf.css"
+    ]
+  }
+}

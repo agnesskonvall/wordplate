@@ -1,0 +1,13 @@
+/*
+Theme Name: Portfolio theme
+Theme URI:
+Author: Marie Andersson
+Author URI:
+Description: A portfolio theme for presenting work and projects.
+Version: 1.0
+*/
+
+/* Here we can add our custom css */
+body {
+  background: rgba(19, 78, 74, 0.1);
+}
